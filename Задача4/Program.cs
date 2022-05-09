@@ -5,17 +5,6 @@
 Если N = 7 -> 0 1 1 2 3 5 8   */
 
 
-/*
-Console.WriteLine("Введите число: ");
-int n = int.Parse(Console.ReadLine());  // преобразует в натуральное число
-
-int a = 0;
-int b = 0;
-while (n > 0)
-{ 
-
-}
-*/
 Console.Clear();
 
 void Fib(int N)
@@ -35,5 +24,17 @@ void Fib(int N)
 }
 Fib(5);
 
+
+/*
+Console.WriteLine("Введите число: ");
+int n = int.Parse(Console.ReadLine());  // преобразует в натуральное число
+
+int a = 0;
+int b = 0;
+while (n > 0)
+{ 
+
+}
+*/
 
 
